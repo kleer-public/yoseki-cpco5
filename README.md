@@ -23,3 +23,5 @@ http://twitter.com/kleer_la
 http://facebook.com/kleer.la
 
 http://www.kleer.la
+
+Fechas de los próximos Yoseki Coding Dojos: http://www.kleer.la/comunidad/yoseki
